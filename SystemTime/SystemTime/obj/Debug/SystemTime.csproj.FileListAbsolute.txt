@@ -1,0 +1,8 @@
+E:\SystemTime\SystemTime\SystemTime\bin\Debug\SystemTime.exe.config
+E:\SystemTime\SystemTime\SystemTime\bin\Debug\SystemTime.exe
+E:\SystemTime\SystemTime\SystemTime\bin\Debug\SystemTime.pdb
+E:\SystemTime\SystemTime\SystemTime\obj\Debug\SystemTime.csproj.AssemblyReference.cache
+E:\SystemTime\SystemTime\SystemTime\obj\Debug\SystemTime.csproj.SuggestedBindingRedirects.cache
+E:\SystemTime\SystemTime\SystemTime\obj\Debug\SystemTime.csproj.CoreCompileInputs.cache
+E:\SystemTime\SystemTime\SystemTime\obj\Debug\SystemTime.exe
+E:\SystemTime\SystemTime\SystemTime\obj\Debug\SystemTime.pdb
